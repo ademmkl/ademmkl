@@ -1,4 +1,4 @@
-- 👋 My name is Adem, and I am studying Physics at Izmir Institute of Technology.
+- 👋 I'm Adem, and studying Physics at Izmir Institute of Technology.
 - 👀 I’m obviously interested in Computer Science and Physics.
 - 📫 My e-mail adress: ademk014689@gmail.com
 
